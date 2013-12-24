@@ -1,0 +1,24 @@
+/*
+Theme Name: Modern Grey
+Theme URI: http://toolstack.com/grey-admin-color-themes
+Author: GregRoss
+Author URI: http://toolstack.com
+Description: A Modern Grey color theme for the admin panel.
+Version: 1.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: admin-theme grey modern
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+$base-color: #464646;
+$highlight-color: #6D6D6D;
+$notification-color: #F1F1F1;
+$action-color: #DFDFDF;
+$button-color: #21759B;
+$menu-bubble-text: black;
+$menu-bubble-background: #F1F1F1;
+
+@import "..\_admin.scss";
