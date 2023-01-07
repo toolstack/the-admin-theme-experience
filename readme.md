@@ -1,16 +1,16 @@
-=== The Admin Theme Experience ===
-Contributors: GregRoss
-Plugin URI: http://toolstack.com/the-admin-theme-experience
-Author URI: http://toolstack.com
-Tags: admin color scheme theme
-Requires at least: 3.8.0
-Tested up to: 3.8.0
-Stable tag: 0.1
-License: GPLv2
+# The Admin Theme Experience #
+**Contributors:** [gregross](https://profiles.wordpress.org/gregross/)  
+**Plugin URI:** http://toolstack.com/the-admin-theme-experience  
+**Author URI:** http://toolstack.com  
+**Tags:** admin color scheme theme  
+**Requires at least:** 3.8.0  
+**Tested up to:** 3.8.0  
+**Stable tag:** 0.1  
+**License:** GPLv2  
 
 POC for proper theme's for the admin area.
 
-== Description ==
+## Description ##
 
 Proof of concept for proper theme's for the admin area.
 
@@ -95,23 +95,26 @@ In the end, I decided the old method was just too limited and wrote this plugin 
 
 Turns out it was easier than I thought... kind of ;)
 
-== Installation ==
+## Installation ##
 
 1. Extract the archive file into your plugins directory in the admin-themes folder.
 2. Activate the plugin in the Plugin options.
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ##
 
-= None at this time =
+### None at this time ###
 
-== Changelog ==
-= 0.1 =
+## Changelog ##
+### 0.1 ###
 * First pre-beta, everything is new.
 
-== Upgrade Notice == 
-= 0.1 =
+## Upgrade Notice ##
+### 0.1 ###
 * None
 
-== Screenshots ==
+## Screenshots ##
 
-1. Screen shot
+### 1. Screen shot ###
+![Screen shot](assets/screenshot-1.png)
+
+
